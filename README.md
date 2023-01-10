@@ -8,6 +8,12 @@
 <br />
 <br />
 
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
+
 Olá, me chamo **Matheus Martinez**, sou de São Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** 🚀. 
 
 **Meus interesses pessoais:**
