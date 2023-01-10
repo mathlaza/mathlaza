@@ -2,7 +2,7 @@
 
 <br>
 
-<h3>Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> me chamo **Matheus Martinez**, sou de São Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** 🚀. </h3>
+Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Me chamo **Matheus Martinez**, sou de São Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** 🚀.
 
 <br />
 <br />
