@@ -1,8 +1,8 @@
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Me chamo **Matheus Martinez**
 
 <br>
 
-Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Me chamo **Matheus Martinez**, sou de São Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** 🚀.
+Sou de São Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** 🚀.
 
 <br />
 <br />
