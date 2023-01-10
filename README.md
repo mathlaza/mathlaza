@@ -4,7 +4,7 @@
 
 <br>
 
-Olá, me chamo **Matheus Martinez**, sou de São Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** 🚀. 
+Olá, me chamo <h3>Matheus Martinez</h3>, sou de São Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** 🚀. 
 
 **Meus interesses pessoais:**
 
@@ -22,8 +22,6 @@ Olá, me chamo **Matheus Martinez**, sou de São Paulo, Brasil e atualmente estu
 <br />
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br> 
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/mathlaza/mathlaza/main/devimages/git-original-wordmark.svg" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -39,6 +37,7 @@ Olá, me chamo **Matheus Martinez**, sou de São Paulo, Brasil e atualmente estu
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 </p>
 
+<br />
 <br />
 
 <p>
