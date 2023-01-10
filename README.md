@@ -37,6 +37,7 @@ Olá, me chamo **Matheus Martinez**, sou de São Paulo, Brasil e atualmente estu
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
   <img src="https://icongr.am/devicon/docker-original.svg?size=147&color=currentColor" alt="git" width="40" height="40"/>
   <img src="https://iconscout.com/icon/github-170" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/mathlaza/mathlaza/blob/main/devimages/docker-original-wordmark.svg" alt="git" width="40" height="40"/>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
