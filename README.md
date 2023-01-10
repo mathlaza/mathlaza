@@ -57,6 +57,6 @@ Olá, me chamo **Matheus Martinez**, sou de São Paulo, Brasil e atualmente estu
 <a href="https://www.linkedin.com/in/mathlaza/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
-<a href="https://www.linkedin.com/in/mathlaza/" target="_blank">
-  <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icons-png-vector-icons-and-png-backgrounds-18.png" width="48px" height="48px">
+<a href="mailto:matheusmml@gmail.com" target="_blank">
+  <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-for-gmail-email-client-mac-app-store-16.png" width="48px" height="48px">
 </a>
