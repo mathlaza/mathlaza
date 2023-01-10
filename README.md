@@ -48,7 +48,7 @@ Olá, me chamo **Matheus Martinez**, sou de São Paulo, Brasil e atualmente estu
    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mathlaza&theme=radical&show_icons=true" alt="mathlaza" width="370" />
 </p>
 
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mathlaza&layout=compact&theme=radical" width="310" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mathlaza&layout=compact&theme=radical" width="310" height="310" />
 
 <br />
 <br />
