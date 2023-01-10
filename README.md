@@ -4,7 +4,7 @@
 
 <br>
 
-Olá, me chamo <h3>Matheus Martinez</h3>, sou de São Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** 🚀. 
+Olá, me chamo **Matheus Martinez**, sou de São Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** 🚀. 
 
 **Meus interesses pessoais:**
 
@@ -37,7 +37,6 @@ Olá, me chamo <h3>Matheus Martinez</h3>, sou de São Paulo, Brasil e atualmente
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 </p>
 
-<br />
 <br />
 
 <p>
