@@ -10,12 +10,11 @@ Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" widt
   <img align="right" alt="GIF" src="https://media1.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e474xsvafr63i29dv3s0obwd1dhyfg4xfu0xsrlgq0c&rid=giphy.gif&ct=g" width="300px" />
 
 **Meus interesses pessoais:**
-
-- 👨🏽‍💻 Estou estudando **Orientação a objetos** para conseguir escrever códigos melhores e mais reutilizáveis;
-- 🌱 Estou aprendendo como fazer testes de integração nas minhas próprias **API**; 
-- 🤔 Meus hobbies são mecânica de motos e jogos online;
-- 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
-- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
+- 👨‍💻 Estou estudando **Orientação a objetos** para poder escrever códigos melhores e mais reutilizáveis;
+- 👨‍🎓 Estou aprendendo como fazer testes de integração nas minhas próprias **API**; 
+- 🧗 Meus hobbies são produção musical 🎻 e jogos online 🎮;
+- 💼 Busco sempre oportunidades para evoluir na minha carreira de desenvolvedor;
+- 💬 Pergunte-me qualquer coisa, adoro ajudar pessoas! 💙;
 - 📫 Por favor, envie um email para **matheusmml@gmail.com** para me encontrar.
 <!-- - 📝 Veja meu Curriculum Vitae <a href="https://gitconnected.com/johnatas-henrique/resume" target="_blank">clicando aqui</a> para mais informações. -->
 
