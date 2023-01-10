@@ -57,8 +57,6 @@ Olá, me chamo **Matheus Martinez**, sou de São Paulo, Brasil e atualmente estu
 <a href="https://www.linkedin.com/in/mathlaza/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
-
-<br />
-<br />
-
-⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
+<a href="https://www.linkedin.com/in/mathlaza/" target="_blank">
+  <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icons-png-vector-icons-and-png-backgrounds-18.png" width="48px" height="48px">
+</a>
