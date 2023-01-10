@@ -35,13 +35,21 @@ Olá, me chamo **Matheus Martinez**, sou de São Paulo, Brasil e atualmente estu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/mathlaza/mathlaza/main/devimages/docker-original-wordmark.svg" alt="git" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/docker-original.svg?size=147&color=currentColor" alt="git" width="40" height="40"/>
+  <img src="https://iconscout.com/icon/github-170" alt="git" width="40" height="40"/>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/mathlaza/mathlaza/main/devimages/git-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/mathlaza/mathlaza/main/devimages/github-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>  
 </p>
+
+<!-- Markdown approach -->
+![](https://raw.githubusercontent.com/<username>/<repository>/<branch>/<file_path>)
+<!-- HTML approach -->
+<img src="https://raw.githubusercontent.com/<username>/<repository>/<branch>/<file_path>"/>
 
 <p>
    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mathlaza&theme=radical&show_icons=true" alt="mathlaza" width="370" />
