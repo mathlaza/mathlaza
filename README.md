@@ -47,4 +47,7 @@ Olá, me chamo **Matheus Martinez**, sou de São Paulo, Brasil e atualmente estu
 <br />
 <br />
 
+<img src="https://github-readme-stats.vercel.app/api?username=mathlaza&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mathlaza&layout=compact"/>
+
 ⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
