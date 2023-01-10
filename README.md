@@ -7,9 +7,9 @@ Olá, me chamo **Matheus Martinez**, sou de São Paulo, Brasil e atualmente estu
 <br />
 <br />
 
-**Meus interesses pessoais:**
-
   <img align="right" alt="GIF" src="https://media1.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e474xsvafr63i29dv3s0obwd1dhyfg4xfu0xsrlgq0c&rid=giphy.gif&ct=g" width="300px" />
+
+**Meus interesses pessoais:**
 
 - 👨🏽‍💻 Estou estudando **Orientação a objetos** para conseguir escrever códigos melhores e mais reutilizáveis;
 - 🌱 Estou aprendendo como fazer testes de integração nas minhas próprias **API**; 
