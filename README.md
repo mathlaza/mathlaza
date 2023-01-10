@@ -14,8 +14,8 @@ Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" widt
 - 👨‍🎓 Estou aprendendo como fazer testes de integração nas minhas próprias **API**; 
 - 🧗 Meus hobbies são produção musical 🎻 e jogos online 🎮;
 - 💼 Busco sempre oportunidades para evoluir na minha carreira de desenvolvedor;
-- 💬 Pergunte-me qualquer coisa, adoro ajudar pessoas! 💙;
-- 📫 Por favor, envie um email para **matheusmml@gmail.com** para me encontrar.
+- 📫 Por favor, envie um email para **matheusmml@gmail.com** para me encontrar;
+- - 💬 Pergunte-me qualquer coisa, adoro ajudar pessoas! 💙
 <!-- - 📝 Veja meu Curriculum Vitae <a href="https://gitconnected.com/johnatas-henrique/resume" target="_blank">clicando aqui</a> para mais informações. -->
 
 <br />
