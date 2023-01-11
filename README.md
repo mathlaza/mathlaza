@@ -71,9 +71,6 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
 <a href="https://www.linkedin.com/in/mathlaza/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
-<a href="https://github.com/mathlaza" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a> 
 <a href="mailto:matheusmml@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/mathlaza/mathlaza/main/devimages/gmail-icon.svg" width="48px" height="48px">
 </a>
