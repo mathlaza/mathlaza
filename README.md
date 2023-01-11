@@ -75,5 +75,5 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a> 
 <a href="mailto:matheusmml@gmail.com" target="_blank">
-  <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-for-gmail-email-client-mac-app-store-16.png" width="48px" height="48px">
+  <img src="https://raw.githubusercontent.com/mathlaza/mathlaza/main/devimages/gmail-icon.svg" width="48px" height="48px">
 </a>
