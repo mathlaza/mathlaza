@@ -66,6 +66,39 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mathlaza&layout=compact&theme=radical" width="310" />
 
 <br />
+
+
+## <img src="https://media3.giphy.com/media/Lka9lcOAdjgcqyTnJt/giphy.gif?cid=790b761109bb4da2a24c01c26ce13e3e3c1e5356c19d587f&rid=giphy.gif&ct=s" width="55" style="padding-left: 5px"><b>Alguns dos meus projetos:</b>
+
+
+
+<table>
+  <tr> 
+    <td valign="top">
+      <h3 align="center">Trybe Futebol Clube</h3>
+      <p align="center">
+        <a href="https://blessed-trousers-production.up.railway.app/">Site</a>,
+        <a href="https://github.com/mathlaza/backEnd-Trybe-Futebol-Clube">Repo</a>
+      </p>
+      <p align="center">Typescript, Express, Sequelize</p>
+      <a href="https://github.com/mathlaza/backEnd-Trybe-Futebol-Clube"
+        ><img width="300px" src="./devimages/tfc_image.png" alt="Project-preview"
+      /></a>
+    </td>
+    <td valign="top">
+      <h3 align="center">Habits Control</h3>
+      <p align="center">
+        <a href="https://github.com/mathlaza/RockSeat_NLW_Habits_App">Repo</a>
+      </p>
+      <p align="center">Node, Typescript, React Native</p>
+      <a href="https://github.com/mathlaza/RockSeat_NLW_Habits_App"
+        ><img width="300px" src="./devimages/habits.png" alt="Project-preview"
+      /></a>
+    </td>
+  </tr>
+</table>
+
+<br />
 <br />
 
 ## <b> Conecte-se comigo!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
