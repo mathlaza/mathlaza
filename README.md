@@ -6,7 +6,7 @@ Sou de São Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** �
 
 <br />
 
-  <img align="right" alt="GIF" src="https://media1.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e474xsvafr63i29dv3s0obwd1dhyfg4xfu0xsrlgq0c&rid=giphy.gif&ct=g" width="270px" />
+  <img align="right" alt="GIF" src="https://media1.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e474xsvafr63i29dv3s0obwd1dhyfg4xfu0xsrlgq0c&rid=giphy.gif&ct=g" width="250px" />
 
 **Meus interesses pessoais:**
 - 👨‍💻 Estou estudando **Orientação a objetos** para poder escrever códigos melhores e mais reutilizáveis;
