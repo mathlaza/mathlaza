@@ -61,9 +61,9 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
 
 <p>
    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mathlaza&theme=radical&show_icons=true" alt="mathlaza" width="370" />
-</p>
-
+  
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mathlaza&layout=compact&theme=radical" width="310" />
+</p>
 
 <br />
 
