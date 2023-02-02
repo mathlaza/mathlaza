@@ -99,7 +99,7 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
 </table>
 
 <br />
-<br />
+<!-- <br /> -->
 
 ## <b> Conecte-se comigo!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
