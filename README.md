@@ -85,6 +85,7 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
         ><img width="300px" src="./devimages/tfc_image.png" alt="Project-preview"
       /></a>
     </td>
+    
     <td valign="top">
       <h3 align="center">Habits Control</h3>
       <p align="center">
@@ -93,6 +94,18 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
       <p align="center">Node, Typescript, React Native</p>
       <a href="https://github.com/mathlaza/RockSeat_NLW_Habits_App"
         ><img width="300px" src="./devimages/habits.png" alt="Project-preview"
+      /></a>
+    </td>
+    
+    <td valign="top">
+      <h3 align="center">Habits Control</h3>
+      <p align="center">
+        <a href="https://calculadora-delta-two.vercel.app/">Site</a>,
+        <a href="https://github.com/mathlaza/calculadora">Repo</a>
+      </p>
+      <p align="center">Node, Typescript, React Native</p>
+      <a href="https://github.com/mathlaza/RockSeat_NLW_Habits_App"
+        ><img width="300px" src="./devimages/calculadora.png" alt="Project-preview"
       /></a>
     </td>
   </tr>
