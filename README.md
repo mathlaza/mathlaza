@@ -96,7 +96,7 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
       </a>
     </td>
     <td valign="top">
-      <h3 align="center">Habits Control</h3>
+      <h3 align="center">Calculadora</h3>
       <p align="center">
         <a href="https://calculadora-delta-two.vercel.app/">Site</a>,
         <a href="https://github.com/mathlaza/calculadora">Repo</a>
