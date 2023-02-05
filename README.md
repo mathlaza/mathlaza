@@ -101,7 +101,7 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
         <a href="https://calculadora-delta-two.vercel.app/">Site</a>,
         <a href="https://github.com/mathlaza/calculadora">Repo</a>
       </p>
-      <p align="center">Node, Typescript, React Native</p>
+      <p align="center">HTML, CSS, Javascript</p>
       <a href="https://github.com/mathlaza/RockSeat_NLW_Habits_App">
         <img width="300px" height="165px" src="./devimages/calculadora.png" alt="Project-preview"/>
       </a>
