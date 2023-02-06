@@ -104,7 +104,7 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
       </p>
       <p align="center">HTML, CSS, Javascript</p>
       <a href="https://github.com/mathlaza/calculadora">
-        <img width="300px" height="165px" src="./devimages/calculadora.png" alt="Project-preview"/>
+        <img width="300px" height="165px" src="./devimages/calc.gif" alt="Project-preview"/>
       </a>
     </td>
   </tr>
