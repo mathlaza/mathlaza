@@ -88,6 +88,7 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
     <td valign="top">
       <h3 align="center">Habits Control</h3>
       <p align="center">
+        <a href="https://rock-seat-nlw-habits-app.vercel.app/">Site</a>,
         <a href="https://github.com/mathlaza/RockSeat_NLW_Habits_App">Repo</a>
       </p>
       <p align="center">Node, Typescript, React Native</p>
