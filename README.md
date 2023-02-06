@@ -82,7 +82,7 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
       </p>
       <p align="center">Typescript, Express, Sequelize</p>
       <a href="https://github.com/mathlaza/backEnd-Trybe-Futebol-Clube">
-        <img width="250px" height="165px" src="./devimages/TFC.gif" alt="Project-preview"/>
+        <img width="100%" height="165px" src="./devimages/TFC.gif" alt="Project-preview"/>
       </a>
     </td>
     <td valign="top">
@@ -93,7 +93,7 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
       </p>
       <p align="center">Node, Typescript, React Native</p>
       <a href="https://github.com/mathlaza/RockSeat_NLW_Habits_App">
-        <img width="250px" height="165px" src="./devimages/habits2.gif" alt="Project-preview"/>
+        <img width="100%" height="165px" src="./devimages/habits2.gif" alt="Project-preview"/>
       </a>
     </td>
     <td valign="top">
@@ -104,7 +104,7 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
       </p>
       <p align="center">HTML, CSS, Javascript</p>
       <a href="https://github.com/mathlaza/calculadora">
-        <img width="250px" height="165px" src="./devimages/calc.gif" alt="Project-preview"/>
+        <img width="100%" height="165px" src="./devimages/calc.gif" alt="Project-preview"/>
       </a>
     </td>
   </tr>
