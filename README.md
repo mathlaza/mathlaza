@@ -77,7 +77,7 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
     <td valign="top">
       <h3 align="center">Trybe Futebol Clube</h3>
       <p align="center">
-        <a href="https://back-end-trybe-futebol-clube.vercel.app">Site</a>,
+        <a href="https://abashed-books-production.up.railway.app/">Site</a>,
         <a href="https://github.com/mathlaza/backEnd-Trybe-Futebol-Clube">Repo</a>
       </p>
       <p align="center">Typescript, Express, Sequelize</p>
