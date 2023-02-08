@@ -10,9 +10,9 @@ Sou de São Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** �
 
 **Meus interesses pessoais:**
 - 👨‍💻 Estou estudando **Orientação a objetos** para poder escrever códigos melhores e mais reutilizáveis;
-- 👨‍🎓 Estou aprendendo como fazer testes de integração nas minhas próprias **API**; 
-- 🧗 Meus hobbies são produção musical 🎻 e jogos online 🎮;
-- 💼 Busco sempre oportunidades para evoluir na minha carreira de desenvolvedor;
+- 👨‍🎓 Estou aprendendo como aplicar tipagem nos meus códigos com **TypeScript** ; 
+- 🧗 Meus hobbies são 🎧 produção musical, 🎻 tocar violino e 🎲 jogos de tabuleiro;
+- 💼 Busco oportunidades para evoluir na minha carreira de desenvolvedor;
 - 📫 Por favor, envie um email para **matheusmml@gmail.com** para me encontrar;
 - 💬 Pergunte-me qualquer coisa, adoro ajudar pessoas! 💙
 <!-- - 📝 Veja meu Curriculum Vitae <a href="https://gitconnected.com/johnatas-henrique/resume" target="_blank">clicando aqui</a> para mais informações. -->
