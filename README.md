@@ -112,12 +112,12 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
   </tr>
   <tr> 
     <td valign="top">
-      <h3 align="center">Trybe Futebol Clube</h3>
+      <h3 align="center">Gerador De Senhas</h3>
       <p align="center">
         <a href="https://gerador-senhas-nine.vercel.app/">Site</a>,
         <a href="https://github.com/mathlaza/Gerador_Senhas">Repo</a>
       </p>
-      <p align="center">Typescript, Express, Sequelize</p>
+      <p align="center">Vite, ESLint, Nano ID</p>
       <a href="https://github.com/mathlaza/Gerador_Senhas">
         <img width="100%" height="165px" src="./devimages/generate.gif" alt="Project-preview"/>
       </a>
