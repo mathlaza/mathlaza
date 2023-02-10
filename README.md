@@ -99,7 +99,7 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
       </a>
     </td>
     <td valign="top">
-      <h3 align="center">Calculadora</h3>
+      <h3 align="center">Calculator</h3>
       <p align="center">
         <a href="https://calculadora-delta-two.vercel.app/">Site</a>,
         <a href="https://github.com/mathlaza/calculadora">Repo</a>
@@ -112,7 +112,7 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
   </tr>
   <tr> 
     <td valign="top">
-      <h3 align="center">Gerador De Senhas</h3>
+      <h3 align="center">Password Generator</h3>
       <p align="center">
         <a href="https://gerador-senhas-nine.vercel.app/">Site</a>,
         <a href="https://github.com/mathlaza/Gerador_Senhas">Repo</a>
@@ -120,6 +120,17 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
       <p align="center">Vite, ESLint, Nano ID</p>
       <a href="https://github.com/mathlaza/Gerador_Senhas">
         <img width="100%" height="165px" src="./devimages/generate.gif" alt="Project-preview"/>
+      </a>
+    </td>
+    <td valign="top">
+      <h3 align="center">Currency Exchange</h3>
+      <p align="center">
+        <a href="https://currency-exchange-tau-ten.vercel.app/">Site</a>,
+        <a href="https://github.com/mathlaza/Currency_Exchange">Repo</a>
+      </p>
+      <p align="center">Vite, Typescript, CSS</p>
+      <a href="https://github.com/mathlaza/Gerador_Senhas">
+        <img width="100%" height="165px" src="./devimages/exchange.gif" alt="Project-preview"/>
       </a>
     </td>
   </tr>
