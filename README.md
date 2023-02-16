@@ -129,8 +129,18 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
         <a href="https://github.com/mathlaza/Currency_Exchange">Repo</a>
       </p>
       <p align="center">Vite, Typescript, CSS</p>
-      <a href="https://github.com/mathlaza/Gerador_Senhas">
+      <a href="https://github.com/mathlaza/Currency_Exchange">
         <img width="100%" height="165px" src="./devimages/exchange.gif" alt="Project-preview"/>
+      </a>
+    </td>
+    <td valign="top">
+      <h3 align="center">Car Shop API</h3>
+      <p align="center">
+        <a href="https://github.com/mathlaza/backend-Car-Shop">Repo</a>
+      </p>
+      <p align="center">Mongoose, Typescript, Mocha</p>
+      <a href="https://github.com/mathlaza/backend-Car-Shop">
+        <img width="100%" height="165px" src="./devimages/car_shop_api.gif" alt="Project-preview"/>
       </a>
     </td>
   </tr>
