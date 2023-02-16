@@ -62,16 +62,10 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
   ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
   
 
-<br />
-                                                                                                                                              
-<div align="center">
-   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mathlaza&theme=radical&show_icons=true" alt="mathlaza" width="382" />
-   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mathlaza&layout=compact&theme=radical" width="310" />
-</div>                                                                                                                                  
+<br />                                                                                                                               
 
 
 ## <img src="https://media3.giphy.com/media/Lka9lcOAdjgcqyTnJt/giphy.gif?cid=790b761109bb4da2a24c01c26ce13e3e3c1e5356c19d587f&rid=giphy.gif&ct=s" width="55" style="padding-left: 5px"><b>Alguns dos meus projetos:</b>
-
 
 
 <table>
@@ -147,7 +141,14 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
 </table>
 
 <br />
-<!-- <br /> -->
+
+
+## <span>
+  <div  align="center">
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mathlaza&theme=radical&show_icons=true" alt="mathlaza" width="382" />
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mathlaza&layout=compact&theme=radical" width="310" />
+  </div>
+</span>   
 
 ## <b> Conecte-se comigo!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
