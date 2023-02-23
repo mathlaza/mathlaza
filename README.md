@@ -71,34 +71,34 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
 <table>
   <tr> 
     <td valign="top">
-      <h3 align="center">Trybe Futebol Clube</h3>
-      <p align="center">
+      <h3>Trybe Futebol Clube</h3>
+      <p>
         <a href="https://abashed-books-production.up.railway.app/">Site</a>,
         <a href="https://github.com/mathlaza/backEnd-Trybe-Futebol-Clube">Repo</a>
       </p>
-      <p align="center">Typescript, Express, Sequelize</p>
+      <p>Typescript, Express, Sequelize</p>
       <a href="https://github.com/mathlaza/backEnd-Trybe-Futebol-Clube">
         <img width="100%" height="165px" src="./devimages/TFC.gif" alt="Project-preview"/>
       </a>
     </td>
     <td valign="top">
-      <h3 align="center">Habits Control</h3>
-      <p align="center">
+      <h3>Habits Control</h3>
+      <p>
         <a href="https://rock-seat-nlw-habits-app.vercel.app/">Site</a>,
         <a href="https://github.com/mathlaza/RockSeat_NLW_Habits_App">Repo</a>
       </p>
-      <p align="center">Node, Typescript, React Native</p>
+      <p>Node, Typescript, React Native</p>
       <a href="https://github.com/mathlaza/RockSeat_NLW_Habits_App">
         <img width="100%" height="165px" src="./devimages/habits2.gif" alt="Project-preview"/>
       </a>
     </td>
     <td valign="top">
-      <h3 align="center">Calculator</h3>
-      <p align="center">
+      <h3>Calculator</h3>
+      <p>
         <a href="https://calculadora-delta-two.vercel.app/">Site</a>,
         <a href="https://github.com/mathlaza/calculadora">Repo</a>
       </p>
-      <p align="center">HTML, CSS, Javascript</p>
+      <p>HTML, CSS, Javascript</p>
       <a href="https://github.com/mathlaza/calculadora">
         <img width="100%" height="165px" src="./devimages/calc.gif" alt="Project-preview"/>
       </a>
@@ -106,33 +106,33 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
   </tr>
   <tr> 
     <td valign="top">
-      <h3 align="center">Password Generator</h3>
-      <p align="center">
+      <h3>Password Generator</h3>
+      <p>
         <a href="https://gerador-senhas-nine.vercel.app/">Site</a>,
         <a href="https://github.com/mathlaza/Gerador_Senhas">Repo</a>
       </p>
-      <p align="center">Vite, ESLint, Nano ID</p>
+      <p>Vite, ESLint, Nano ID</p>
       <a href="https://github.com/mathlaza/Gerador_Senhas">
         <img width="100%" height="165px" src="./devimages/generate.gif" alt="Project-preview"/>
       </a>
     </td>
     <td valign="top">
-      <h3 align="center">Currency Exchange</h3>
-      <p align="center">
+      <h3>Currency Exchange</h3>
+      <p>
         <a href="https://currency-exchange-tau-ten.vercel.app/">Site</a>,
         <a href="https://github.com/mathlaza/Currency_Exchange">Repo</a>
       </p>
-      <p align="center">Vite, Typescript, CSS</p>
+      <p>Vite, Typescript, CSS</p>
       <a href="https://github.com/mathlaza/Currency_Exchange">
         <img width="100%" height="165px" src="./devimages/exchange.gif" alt="Project-preview"/>
       </a>
     </td>
     <td valign="top">
-      <h3 align="center">Car Shop API</h3>
-      <p align="center">
+      <h3>Car Shop API</h3>
+      <p>
         <a href="https://github.com/mathlaza/backend-Car-Shop">Repo</a>
       </p>
-      <p align="center">Mongoose, Typescript, Mocha</p>
+      <p>Mongoose, Typescript, Mocha</p>
       <a href="https://github.com/mathlaza/backend-Car-Shop">
         <img width="100%" height="165px" src="./devimages/car_shop_api.gif" alt="Project-preview"/>
       </a>
@@ -140,12 +140,12 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
   </tr>
   <tr> 
     <td valign="top">
-      <h3 align="center">Shopping Cart</h3>
-      <p align="center">
+      <h3>Shopping Cart</h3>
+      <p>
         <a href="https://frontend-shopping-cart-ruby.vercel.app/">Site</a>,
         <a href="https://github.com/mathlaza/frontend-Shopping-Cart">Repo</a>
       </p>
-      <p align="center">Javascript, CSS, Jest</p>
+      <p>Javascript, CSS, Jest</p>
       <a href="https://github.com/mathlaza/frontend-Shopping-Cart">
         <img width="100%" height="165px" src="./devimages/carrinho_compras.gif" alt="Project-preview"/>
       </a>
