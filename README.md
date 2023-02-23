@@ -138,10 +138,22 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
       </a>
     </td>
   </tr>
+  <tr> 
+    <td valign="top">
+      <h3 align="center">Shopping Cart</h3>
+      <p align="center">
+        <a href="https://frontend-shopping-cart-ruby.vercel.app/">Site</a>,
+        <a href="https://github.com/mathlaza/frontend-Shopping-Cart">Repo</a>
+      </p>
+      <p align="center">Javascript, CSS, Jest</p>
+      <a href="https://github.com/mathlaza/frontend-Shopping-Cart">
+        <img width="100%" height="165px" src="./devimages/carrinho_compras.gif" alt="Project-preview"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
 <br />
-
 
 ## <span>
   <div  align="center">
