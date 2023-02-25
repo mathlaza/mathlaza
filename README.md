@@ -139,7 +139,7 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
     </td>
   </tr>
   <tr> 
-    <td valign="top">
+    <td>
       <h3>Shopping Cart</h3>
       <p>
         <a href="https://frontend-shopping-cart-ruby.vercel.app/">Site</a>,
@@ -148,6 +148,17 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
       <p>Javascript, CSS, Jest</p>
       <a href="https://github.com/mathlaza/frontend-Shopping-Cart">
         <img width="100%" height="165px" src="./devimages/carrinho_compras.gif" alt="Project-preview"/>
+      </a>
+    </td>
+    <td>
+      <h3>Solar System</h3>
+      <p>
+        <a href="https://frontend-solar-system.vercel.app/">Site</a>,
+        <a href="https://github.com/mathlaza/frontend-Solar-System">Repo</a>
+      </p>
+      <p>React, CSS</p>
+      <a href="https://github.com/mathlaza/frontend-Solar-System">
+        <img width="100%" height="165px" src="./devimages/solar_system.gif" alt="Project-preview"/>
       </a>
     </td>
   </tr>
