@@ -162,12 +162,12 @@ Sou de São Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** �
       </a>
     </td>
         <td>
-      <h3>Gerador de Formas Geonétricas</h3>
+      <h3>Geometric Generator</h3>
       <p>
         <a href="https://geometric-generator.vercel.app/">Site</a>,
         <a href="https://github.com/mathlaza/geometric-generator">Repo</a>
       </p>
-      <p>React, CSS</p>
+      <p>HTML, CSS, Javascript</p>
       <a href="https://github.com/mathlaza/geometric-generator">
         <img width="100%" height="165px" src="./devimages/geometric_generator.gif" alt="Project-preview"/>
       </a>
