@@ -173,6 +173,19 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <h3>Super Trunfo Card Game</h3>
+      <p>
+        <a href="https://frontend-super-trunfo.vercel.app/">Site</a>,
+        <a href="https://github.com/mathlaza/frontend-Super-Trunfo">Repo</a>
+      </p>
+      <p>HTML, CSS, React</p>
+      <a href="https://github.com/mathlaza/frontend-Super-Trunfo">
+        <img width="100%" height="165px" src="./devimages/overall.gif" alt="Project-preview"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
 <br />
