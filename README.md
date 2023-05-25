@@ -70,6 +70,17 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
 
 <table>
   <tr> 
+     <td>
+      <h3>Super Trunfo Card Game</h3>
+      <p>
+        <a href="https://frontend-super-trunfo.vercel.app/">Site</a>,
+        <a href="https://github.com/mathlaza/frontend-Super-Trunfo">Repo</a>
+      </p>
+      <p>HTML, CSS, React</p>
+      <a href="https://github.com/mathlaza/frontend-Super-Trunfo">
+        <img width="100%" height="165px" src="./devimages/overall.gif" alt="Project-preview"/>
+      </a>
+    </td>
     <td valign="top">
       <h3>Trybe Futebol Clube</h3>
       <p>
@@ -92,7 +103,9 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
         <img width="100%" height="165px" src="./devimages/habits2.gif" alt="Project-preview"/>
       </a>
     </td>
-    <td valign="top">
+  </tr>
+  <tr> 
+     <td valign="top">
       <h3>Calculator</h3>
       <p>
         <a href="https://calculadora-delta-two.vercel.app/">Site</a>,
@@ -103,8 +116,6 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
         <img width="100%" height="165px" src="./devimages/calc.gif" alt="Project-preview"/>
       </a>
     </td>
-  </tr>
-  <tr> 
     <td valign="top">
       <h3>Password Generator</h3>
       <p>
@@ -127,6 +138,8 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
         <img width="100%" height="165px" src="./devimages/exchange.gif" alt="Project-preview"/>
       </a>
     </td>
+  </tr>
+  <tr> 
     <td valign="top">
       <h3>Car Shop API</h3>
       <p>
@@ -137,8 +150,6 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
         <img width="100%" height="165px" src="./devimages/car_shop_api.gif" alt="Project-preview"/>
       </a>
     </td>
-  </tr>
-  <tr> 
     <td>
       <h3>Shopping Cart</h3>
       <p>
@@ -161,7 +172,9 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
         <img width="100%" height="165px" src="./devimages/solar_system.gif" alt="Project-preview"/>
       </a>
     </td>
-        <td>
+  </tr>
+  <tr>
+    <td>
       <h3>Geometric Generator</h3>
       <p>
         <a href="https://geometric-generator.vercel.app/">Site</a>,
@@ -170,19 +183,6 @@ Sou de SÃ£o Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** ð
       <p>HTML, CSS, Javascript</p>
       <a href="https://github.com/mathlaza/geometric-generator">
         <img width="100%" height="165px" src="./devimages/geometric_generator.gif" alt="Project-preview"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>Super Trunfo Card Game</h3>
-      <p>
-        <a href="https://frontend-super-trunfo.vercel.app/">Site</a>,
-        <a href="https://github.com/mathlaza/frontend-Super-Trunfo">Repo</a>
-      </p>
-      <p>HTML, CSS, React</p>
-      <a href="https://github.com/mathlaza/frontend-Super-Trunfo">
-        <img width="100%" height="165px" src="./devimages/overall.gif" alt="Project-preview"/>
       </a>
     </td>
   </tr>
