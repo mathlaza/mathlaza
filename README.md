@@ -185,6 +185,16 @@ Sou de São Paulo, Brasil e atualmente estudo **Desenvolvimento Web na Trybe** �
         <img width="100%" height="165px" src="./devimages/geometric_generator.gif" alt="Project-preview"/>
       </a>
     </td>
+    <td>
+      <h3>TodoApp</h3>
+      <p>
+        <a href="https://github.com/mathlaza/JavaTodoApp">Repo</a>
+      </p>
+      <p>Java, phpMyAdmin, NetBeans</p>
+      <a href="https://github.com/mathlaza/JavaTodoApp">
+        <img width="100%" height="165px" src="./devimages/Animação1.gif" alt="Project-preview"/>
+      </a>
+    </td>
   </tr>
 </table>
 
